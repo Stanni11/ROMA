@@ -28,12 +28,13 @@ nav {
     display: flex;
     justify-content: end;
     padding: 4vh 10% 0 0;
+    align-items: baseline;
 }
 
 body nav a {
     font-size: 25px;
     color: white;
-    padding-left: 10px;
+    padding-left: 20px;
     text-decoration: underline #e7bc0e;
 }
 
@@ -160,7 +161,9 @@ body nav a {
 
 .p_workers {
     width: 67%;
-    margin-left: 30%;
+    margin-left: 40%;
+    padding-right: 12%;
+    padding-bottom: 20vh;
     font-size: 32px;
     color: #7eb8e1;
     line-height: 70px;
@@ -175,6 +178,8 @@ body nav a {
 
 .kids_img {
     width: 100%;
+    vertical-align: bottom;
+
 }
 
 footer {
