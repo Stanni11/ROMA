@@ -1,22 +1,14 @@
 @font-face {
-    font-family: 'Boldline';
-    src: url(../fonts/TTF/Santio_Boldline.ttf);
-    font-family: 'Black';
-    src: url(../fonts/TTF/Santio\_Black.ttf);
-    font-family: 'Bold';
-    src: url(../fonts/TTF/Santio\ Bold.ttf);
-    font-family: 'Inline';
-    src: url(../fonts/TTF/Santio\ Inline.ttf);
-    font-family: 'Santio Regular';
-    src: url(../fonts/TTF/Santio\ regular.ttf);
-    font-family: 'Santio Light';
-    src: url(../fonts/TTF/Santio\ light.ttf);
+    font-family: 'Santio bold';
+    src: url(../fonts/TTF/Santio_Bold.ttf);
 }
 
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Santio bold';
+
 }
 
 .parallax {
